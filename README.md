@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @PR93
 - 👀 I'm interested in football. I am a supporter of Manchester United. It is my favorite team.
-- 🌱 I’m currently learning javascript, react, tailwind.
+- 🌱 I’m currently learning javascript, nodejs, react, tailwind.
