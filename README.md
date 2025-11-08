@@ -3,4 +3,4 @@
 - :computer: I’m currently a C# developer
   
 
-07-11-2025
+08-11-2025
